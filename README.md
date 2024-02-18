@@ -7,10 +7,10 @@
 
 | 软件名称                | 硬件要求      | 操作系统     |
 |-------------------------|--------------|--------------|
-| [X-AnyLabeling-CPU.exe](https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.2.0/X-AnyLabeling-CPU.exe)   | CPU支持       | Windows      |
-| [X-AnyLabeling-GPU.exe](https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.2.0/X-AnyLabeling-GPU.exe)   | GPU支持       | Windows      |
-| [X-Anylabeling-Linux-CPU](https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.2.0/X-Anylabeling-Linux-CPU) | CPU支持       | Linux        |
-| [X-Anylabeling-Linux-GPU](https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.2.0/X-Anylabeling-Linux-GPU) | GPU支持       | Linux        |
+| [X-AnyLabeling-CPU.exe](https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/X-AnyLabeling-CPU.exe)   | CPU支持       | Windows      |
+| [X-AnyLabeling-GPU.exe](https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/X-AnyLabeling-GPU.exe)   | GPU支持       | Windows      |
+| [X-Anylabeling-Linux-CPU](https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/X-Anylabeling-Linux-CPU) | CPU支持       | Linux        |
+| [X-Anylabeling-Linux-GPU](https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/X-Anylabeling-Linux-GPU) | GPU支持       | Linux        |
 
 ### 使用方法
 #### 目标检测
